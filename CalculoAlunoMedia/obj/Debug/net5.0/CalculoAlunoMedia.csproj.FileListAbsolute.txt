@@ -1,0 +1,16 @@
+C:\Users\genes\Documents\Gama\dotNet_projects\CalculoAlunoMedia\CalculoAlunoMedia\bin\Debug\net5.0\CalculoAlunoMedia.exe
+C:\Users\genes\Documents\Gama\dotNet_projects\CalculoAlunoMedia\CalculoAlunoMedia\bin\Debug\net5.0\CalculoAlunoMedia.deps.json
+C:\Users\genes\Documents\Gama\dotNet_projects\CalculoAlunoMedia\CalculoAlunoMedia\bin\Debug\net5.0\CalculoAlunoMedia.runtimeconfig.json
+C:\Users\genes\Documents\Gama\dotNet_projects\CalculoAlunoMedia\CalculoAlunoMedia\bin\Debug\net5.0\CalculoAlunoMedia.runtimeconfig.dev.json
+C:\Users\genes\Documents\Gama\dotNet_projects\CalculoAlunoMedia\CalculoAlunoMedia\bin\Debug\net5.0\CalculoAlunoMedia.dll
+C:\Users\genes\Documents\Gama\dotNet_projects\CalculoAlunoMedia\CalculoAlunoMedia\bin\Debug\net5.0\ref\CalculoAlunoMedia.dll
+C:\Users\genes\Documents\Gama\dotNet_projects\CalculoAlunoMedia\CalculoAlunoMedia\bin\Debug\net5.0\CalculoAlunoMedia.pdb
+C:\Users\genes\Documents\Gama\dotNet_projects\CalculoAlunoMedia\CalculoAlunoMedia\obj\Debug\net5.0\CalculoAlunoMedia.csproj.AssemblyReference.cache
+C:\Users\genes\Documents\Gama\dotNet_projects\CalculoAlunoMedia\CalculoAlunoMedia\obj\Debug\net5.0\CalculoAlunoMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\genes\Documents\Gama\dotNet_projects\CalculoAlunoMedia\CalculoAlunoMedia\obj\Debug\net5.0\CalculoAlunoMedia.AssemblyInfoInputs.cache
+C:\Users\genes\Documents\Gama\dotNet_projects\CalculoAlunoMedia\CalculoAlunoMedia\obj\Debug\net5.0\CalculoAlunoMedia.AssemblyInfo.cs
+C:\Users\genes\Documents\Gama\dotNet_projects\CalculoAlunoMedia\CalculoAlunoMedia\obj\Debug\net5.0\CalculoAlunoMedia.csproj.CoreCompileInputs.cache
+C:\Users\genes\Documents\Gama\dotNet_projects\CalculoAlunoMedia\CalculoAlunoMedia\obj\Debug\net5.0\CalculoAlunoMedia.dll
+C:\Users\genes\Documents\Gama\dotNet_projects\CalculoAlunoMedia\CalculoAlunoMedia\obj\Debug\net5.0\ref\CalculoAlunoMedia.dll
+C:\Users\genes\Documents\Gama\dotNet_projects\CalculoAlunoMedia\CalculoAlunoMedia\obj\Debug\net5.0\CalculoAlunoMedia.pdb
+C:\Users\genes\Documents\Gama\dotNet_projects\CalculoAlunoMedia\CalculoAlunoMedia\obj\Debug\net5.0\CalculoAlunoMedia.genruntimeconfig.cache
